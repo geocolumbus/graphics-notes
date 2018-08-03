@@ -1,0 +1,16 @@
+{
+  "name": "graphics-notes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/**/*.spec.js",
+    "lint": "eslint src"
+  },
+  "author": "campbelg@oclc.org",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^5.2.0",
+    "mocha": "^5.2.0"
+  }
+}
