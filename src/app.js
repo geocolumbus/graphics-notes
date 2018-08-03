@@ -129,10 +129,9 @@ let ctx = img.getContext();
 // rect
 // ellipse
 
+ctx.
 
 
-
-console.log(ctx.);
 
 
 
